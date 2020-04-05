@@ -1,2 +1,2 @@
 # minesweeper
-Minesweeper game in Python
+Minesweeper game in Windows command window.
