@@ -1,2 +1,2 @@
 # minesweeper
-Minesweeper game in Windows command window.
+Minesweeper game in Windows command line.
